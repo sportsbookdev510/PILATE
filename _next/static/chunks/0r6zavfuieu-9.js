@@ -9376,7 +9376,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
   (e) => {
     "use strict";
     e.i(24290);
-    let t = "0xa1fd36e7e342de691f103a8490f496c48d889e3e",
+    let t = "0xComingSoon",
       i = `https://app.uniswap.org/swap?chain=robinhood&outputCurrency=${t}`;
     e.s(
       [
@@ -9392,7 +9392,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
           chain: "Robinhood",
           links: {
             buy: i,
-            twitter: "https://x.com/vladhood_X",
+            twitter: "https://x.com/plts_rh",
           },
           nav: [
             { label: "Lore", href: "#about" },
