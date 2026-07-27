@@ -9383,11 +9383,11 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
         "site",
         0,
         {
-          name: "Vladhood",
-          ticker: "$VLAD",
+          name: "Pilate",
+          ticker: "$PLTS",
           tagline: "The official Robinhood chain mascot.",
           description:
-            "Vladhood ($VLAD) the official Robinhood chain mascot. 🏹",
+            "Pilate ($PLTS) the official Robinhood chain mascot. 🏹",
           contract: t,
           chain: "Robinhood",
           links: {
@@ -9395,7 +9395,6 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
             twitter: "https://x.com/plts_rh",
           },
           nav: [
-            { label: "Lore", href: "#about" },
             { label: "How to Buy", href: "#how-to-buy" },
           ],
         },
@@ -9744,7 +9743,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                           "ring-gold relative h-8 w-8 overflow-hidden rounded-full sm:h-9 sm:w-9",
                         children: (0, t.jsx)(r.default, {
                           src: "/images/img-toes.jpeg",
-                          alt: "Vladhood logo",
+                          alt: "Pilate logo",
                           fill: !0,
                           sizes: "36px",
                           className: "object-cover",
@@ -10142,22 +10141,16 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                           children: [
                             (0, t.jsx)("span", {
                               className: "block",
-                              children: "Vladhood",
+                              children: "Pilate",
                             }),
                             (0, t.jsx)("span", {
                               className: "block text-gold-gradient",
-                              children: "$VLAD",
+                              children: "$PLTS",
                             }),
                           ],
                         }),
                       }),
-                      (0, t.jsx)(l.StaggerItem, {
-                        children: (0, t.jsx)("p", {
-                          className:
-                            "max-w-xl whitespace-pre-line text-sm text-muted sm:text-base lg:text-lg",
-                          children: n.site.description,
-                        }),
-                      }),
+
                       (0, t.jsx)(l.StaggerItem, {
                         className: "w-full",
                         children: (0, t.jsxs)("div", {
@@ -10246,7 +10239,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                             "glow-gold absolute inset-0 overflow-hidden rounded-full",
                           children: (0, t.jsx)(i.default, {
                             src: "/images/img-toes.jpeg",
-                            alt: "Vladhood logo",
+                            alt: "Pilate logo",
                             fill: !0,
                             priority: !0,
                             sizes:
@@ -10288,8 +10281,8 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
       },
       {
         n: "03",
-        title: "Swap for $VLAD",
-        body: "Head to Uniswap, make sure you're on Robinhood chain, paste the contract address, hit swap. Congrats, you now own Vladhood.",
+        title: "Swap for $PLTS",
+        body: "Head to Uniswap, make sure you're on Robinhood chain, paste the contract address, hit swap. Congrats, you now own Pilate.",
       },
     ];
     e.s([
@@ -10318,7 +10311,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
                       "How to get ",
                       (0, t.jsx)("span", {
                         className: "text-gold-gradient",
-                        children: "your $VLAD.",
+                        children: "your $PLTS.",
                       }),
                     ],
                   }),
