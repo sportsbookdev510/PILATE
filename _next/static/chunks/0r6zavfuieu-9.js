@@ -9376,7 +9376,7 @@ Read more: https://nextjs.org/docs/messages/next-image-unconfigured-localpattern
   (e) => {
     "use strict";
     e.i(24290);
-    let t = "0xComingSoon",
+    let t = "0x7376a8eca2dce64a8c9c5d8ea4421a0eb39a7777",
       i = `https://app.uniswap.org/swap?chain=robinhood&outputCurrency=${t}`;
     e.s(
       [
